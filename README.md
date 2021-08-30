@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohini tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Mohinityagi7/webpage-using-in-HTML-and-CSS/blob/main/1625438651120.jpg">
+<img align="right" alt="Coding" width="900" src="https://github.com/Mohinityagi7/webpage-using-in-HTML-and-CSS/blob/main/1625438651120.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohinityagi7&label=Profile%20views&color=0e75b6&style=flat" alt="mohinityagi7" /> </p>
 
