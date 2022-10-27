@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tyagi16mohini" target="blank"><img src="https://img.shields.io/twitter/follow/tyagi16mohini?logo=twitter&style=for-the-badge" alt="tyagi16mohini" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on ** IoT & Deep learning**
 
 - 👯 I’m looking to collaborate on [Animations webpage](https://github.com/Mohinityagi7/webpage-using-in-HTML-and-CSS)
 
