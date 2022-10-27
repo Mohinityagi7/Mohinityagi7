@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on ** IoT & Deep learning**
 
-- 👯 I’m looking to collaborate on [Animations webpage](https://github.com/Mohinityagi7/webpage-using-in-HTML-and-CSS)
+- 👯 I’m looking to collaborate on [Animations webpage]
 
 - 📫 How to reach me **tyagimohini7@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/update/urn:li:activity:6831461846319554560/](https://www.linkedin.com/feed/update/urn:li:activity:6831461846319554560/)
+- 📄 Know about my experiences https://www.linkedin.com/in/mohini-tyagi-7463bb214/
 
 - ⚡ Fun fact **I think i am funny.**
 
