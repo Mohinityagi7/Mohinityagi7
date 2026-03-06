@@ -32,12 +32,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
----
-### 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohinityagi7&theme=algolia&row=1&column=6"/>
-</p>
----
+
 
 ### 🌍 Connect with Me
 <p align="left">
