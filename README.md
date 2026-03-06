@@ -33,13 +33,10 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohinityagi7&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohinityagi7&theme=radical" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=mohinityagi7&theme=algolia&row=1&column=6"/>
 </p>
-
 ---
 
 ### 🌍 Connect with Me
