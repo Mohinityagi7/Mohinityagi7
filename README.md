@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently researching **Machine learning & Deep Learning in Agriculture**
-- 🎓 Pursuing **M.Tech**, focusing on **Soil Analysis**
+- 🎓 i have done **M.Tech**, focusing on **Soil Analysis**
 - 📚 Published papers on **ML, and DL applications in Agriculture**
 - 🏆 IEEE & Scopus Indexed Publications
 - 👨‍🏫 Soon joining as **Guest Faculty**
